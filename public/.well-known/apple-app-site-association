@@ -1,0 +1,8 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      { "appID": "WY62VS9YM9.riku.fitbitauth", "paths": ["NOT /_/*", "/*"] }
+    ]
+  }
+}
