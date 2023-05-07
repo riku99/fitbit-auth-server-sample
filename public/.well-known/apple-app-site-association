@@ -2,7 +2,7 @@
   "applinks": {
     "apps": [],
     "details": [
-      { "appID": "WY62VS9YM9.riku.fitbitauth", "paths": ["NOT /_/*", "/*"] }
+      { "appID": "WY62VS9YM9.riku.fitbitauth", "paths": ["/auth"] }
     ]
   }
 }
