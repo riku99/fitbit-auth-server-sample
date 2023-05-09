@@ -2,6 +2,7 @@
   "applinks": {
     "apps": [],
     "details": [
+      { "appID": "WY62VS9YM9.riku.fitbitauth", "paths": ["/auth"] },
       { "appID": "B686L73G3S.jp.beatfit", "paths": ["/auth"] },
     ]
   }
